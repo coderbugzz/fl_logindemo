@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832810009547",
+    "project_id": "logindemo-ad67e",
+    "storage_bucket": "logindemo-ad67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832810009547:android:0b1c08096f1b59651fec4e",
+        "android_client_info": {
+          "package_name": "com.freecode.fl_logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832810009547-ci587ufcsql4pr283t6lvh41mku5lqnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1K2KKhYyioh1ycc8zGPkw6XfHmO5IL0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832810009547-ci587ufcsql4pr283t6lvh41mku5lqnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
